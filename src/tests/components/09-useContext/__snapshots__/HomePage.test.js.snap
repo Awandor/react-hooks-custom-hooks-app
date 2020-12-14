@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Prueba en <HomePage /> debe mostrarse correctamente 1`] = `
+Array [
+  " ",
+  <div
+    className="container"
+  >
+    <h1>
+      Home Page
+    </h1>
+    <hr />
+    <pre>
+      {
+   "name": "Albert Einstein",
+   "email": "test@test.es"
+}
+    </pre>
+  </div>,
+  " ",
+]
+`;
